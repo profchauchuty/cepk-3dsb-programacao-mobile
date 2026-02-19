@@ -1,6 +1,6 @@
 # 📘 Programação Mobile
 
-**Turma:** 3ª Ano DSB – Tarde – CEPK  
+**Turma:** 3ª Ano DSB – Manhã – CEPK  
 **Professor:** Cesar Mauricio Chauchuty  
 **Curso:** Técnico em Desenvolvimento de Sistemas  
 **Instituição:** Colégio Estadual Presidente Kennedy
