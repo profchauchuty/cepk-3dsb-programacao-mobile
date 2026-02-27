@@ -48,7 +48,7 @@
 
 | Ferramenta      | Finalidade                                    | Link                             |
 |-----------------|-----------------------------------------------|------------------------------------|
-| Expo            | Desenvolvimento de apps React Native          | [Acessar](https://docs.expo.dev/)  |
+| Expo Snack      | Desenvolvimento de apps React Native          | [Acessar](https://snack.expo.dev/)  |
 | React Native Components & APIs   | Consulta de componentes e APIs do React Native | [Acessar](https://archive.reactnative.dev/docs/next/components-and-apis) |
 | Excalidraw      | Criação de fluxogramas e diagramas visuais    | [Acessar](https://excalidraw.com/) |
 
