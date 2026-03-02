@@ -41,7 +41,8 @@
 | Aula                                   | Link                                                                 |
 |----------------------------------------|----------------------------------------------------------------------|
 | Programador Mobile                     | [Acessar](https://www.devmedia.com.br/programador-mobile/42225)       |
-
+| Estrutura Básica                       | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/estrutura_basica.md) |
+| Componentes Básicos                    | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/principais_componentes.md) |
 ---
 
 ## 🛠 Ferramentas
