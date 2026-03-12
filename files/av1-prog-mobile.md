@@ -1,4 +1,4 @@
-# Atividade – Estrutura de Componente (2.0pts)
+# Atividade – Estrutura de Componente (1.0pts)
 
 ## Objetivo
 Construir um componente em **React Native** utilizando **importações, declarações, renderização e estilização**.
