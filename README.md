@@ -12,11 +12,11 @@
 
 ### 1º Trimestre
 
-| Atividade                   | Descrição          | Nota      | Data Prevista  | Realizada? |
-|-----------------------------|--------------------|-----------|----------------|------------|
-| Atividade Individual        | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Trabalho em Grupo           | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Recuperação                 | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
+| Atividade                   | Descrição             | Nota      | Data Prevista  | Realizada? |
+|-----------------------------|-----------------------|-----------|----------------|------------|
+| Atividade Individual        | <DEFINIR>             | <DEFINIR> | ??/??/????     | ◻️         |
+| Trabalho em Grupo           | Estrutura Componente  | 3.0       | 19/03/2023     | ◻️         |
+| Recuperação                 | <DEFINIR>             | <DEFINIR> | ??/??/????     | ◻️         |
 
 ### 2º Trimestre
 
