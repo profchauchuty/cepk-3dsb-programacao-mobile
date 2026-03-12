@@ -14,7 +14,7 @@
 
 | Atividade                   | Descrição          | Nota      | Data Prevista  | Realizada? |
 |-----------------------------|--------------------|-----------|----------------|------------|
-| Atividade Individual        | Estrutura React N. | 2.0       | 12/03/2026     | ◻️         |
+| Atividade Individual        | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
 | Trabalho em Grupo           | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
 | Recuperação                 | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
 
@@ -43,8 +43,8 @@
 | Programador Mobile                     | [Acessar](https://www.devmedia.com.br/programador-mobile/42225)       |
 | Estrutura Básica                       | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/estrutura_basica.md) |
 | Componentes Básicos                    | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/principais_componentes.md) |
-| Exercícios 01                          | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/exercicios_01.md) |
-| Atividade 1                            | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/av1-prog-mobile.md) |
+| Exercício 01 (Two Data Bind)           | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/exercicios_01.md) |
+| Exercício 02 (Incrementado)            | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/incrementador.md) |
 ---
 
 ## 🛠 Ferramentas
