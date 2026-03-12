@@ -14,7 +14,7 @@
 
 | Atividade                   | Descrição          | Nota      | Data Prevista  | Realizada? |
 |-----------------------------|--------------------|-----------|----------------|------------|
-| Atividade Individual        | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
+| Atividade Individual        | Estrutura React N. | 2.0       | 12/03/2026     | ◻️         |
 | Trabalho em Grupo           | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
 | Recuperação                 | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
 
@@ -44,6 +44,7 @@
 | Estrutura Básica                       | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/estrutura_basica.md) |
 | Componentes Básicos                    | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/principais_componentes.md) |
 | Exercícios 01                          | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/exercicios_01.md) |
+| Atividade 1                            | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/av1-prog-mobile.md) |
 ---
 
 ## 🛠 Ferramentas
