@@ -14,8 +14,8 @@
 
 | Atividade                   | Descrição             | Nota      | Data Prevista  | Realizada? |
 |-----------------------------|-----------------------|-----------|----------------|------------|
-| Atividade Individual        | <DEFINIR>             | <DEFINIR> | ??/??/????     | ◻️         |
-| Trabalho em Grupo           | Estrutura Componente  | 3.0       | 19/03/2023     | ◻️         |
+| Trabalho em Grupo           | Estrutura Componente  | 3.0       | 19/03/2026     | ✅         |
+| Atividade Individual        | Desafio               | 2.0       | 26/03/2026     | ◻️         |
 | Recuperação                 | <DEFINIR>             | <DEFINIR> | ??/??/????     | ◻️         |
 
 ### 2º Trimestre
@@ -45,6 +45,7 @@
 | Componentes Básicos                    | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/principais_componentes.md) |
 | Exercício 01 (Two Data Bind)           | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/exercicios_01.md) |
 | Exercício 02 (Incrementado)            | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/incrementador.md) |
+| Atividade Individual (1º Tri)          | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/atividade_individual.md) |
 ---
 
 ## 🛠 Ferramentas
