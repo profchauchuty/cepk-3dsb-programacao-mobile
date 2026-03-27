@@ -1,4 +1,4 @@
-# Atividades (2.0pts)
+# Atividades (3.0pts)
 
 ### 1. Saudação Personalizada  
 Desenvolva um aplicativo que contenha um campo de texto (`TextInput`) para que o usuário digite seu nome. Ao pressionar um botão, o sistema deve exibir uma mensagem de saudação no formato: “Olá, {nome}”.
