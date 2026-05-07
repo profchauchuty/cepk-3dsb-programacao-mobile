@@ -1,4 +1,4 @@
-# Lembrar+ (Plus): Controle Total da Rotina
+# Lembrar Plus: Controle Total da Rotina
 
 ## Objetivo
 
