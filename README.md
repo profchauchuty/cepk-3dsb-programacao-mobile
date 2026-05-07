@@ -46,6 +46,7 @@
 | Exercício 01 (Two Data Bind)           | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/exercicios_01.md) |
 | Exercício 02 (Incrementado)            | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/incrementador.md) |
 | Atividade Individual (1º Tri)          | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/atividade_individual.md) |
+| Desafio: Lembrar Plus                  | [Acessar](https://github.com/profchauchuty/cepk-3dsb-programacao-mobile/blob/main/files/desafio-todo.md) |
 ---
 
 ## 🛠 Ferramentas
