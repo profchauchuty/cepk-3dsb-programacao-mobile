@@ -5,35 +5,6 @@
 **Curso:** Técnico em Desenvolvimento de Sistemas  
 **Instituição:** Colégio Estadual Presidente Kennedy
 
-
----
-
-## 📊 Sistema de Avaliação 
-
-### 1º Trimestre
-
-| Atividade                   | Descrição             | Nota      | Data Prevista  | Realizada? |
-|-----------------------------|-----------------------|-----------|----------------|------------|
-| Trabalho em Grupo           | Estrutura Componente  | 3.0       | 19/03/2026     | ✅         |
-| Atividade Individual        | Desafio               | 2.0       | 26/03/2026     | ◻️         |
-| Recuperação                 | <DEFINIR>             | <DEFINIR> | ??/??/????     | ◻️         |
-
-### 2º Trimestre
-
-| Atividade                   | Descrição          | Nota      | Data Prevista  | Realizada? |
-|-----------------------------|--------------------|-----------|----------------|------------|
-| Atividade Individual        | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Trabalho em Grupo           | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Recuperação                 | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-
-### 3º Trimestre
-
-| Atividade                   | Descrição          | Nota      | Data Prevista  | Realizada? |
-|-----------------------------|--------------------|-----------|----------------|------------|
-| Prova Individual            | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Trabalho em Grupo           | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-| Recuperação                 | <DEFINIR>          | <DEFINIR> | ??/??/????     | ◻️         |
-
 ---
 
 ## 🧪 Conteúdos
