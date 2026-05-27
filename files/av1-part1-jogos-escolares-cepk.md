@@ -1,4 +1,4 @@
-# PARTE 1 — Estrutura Base + Equipes
+# PARTE 1 — Dashboard + Equipes
 
 # Atividade (AV1) - Programação Mobile
 
@@ -10,6 +10,11 @@
 
 Desenvolver a estrutura inicial de um aplicativo mobile para gerenciamento dos Jogos Escolares do CEPK.
 
+Nesta etapa o aplicativo deverá possuir:
+- Dashboard
+- Navegação
+- CRUD de Equipes
+
 ---
 
 # Tecnologias Obrigatórias
@@ -18,106 +23,88 @@ Desenvolver a estrutura inicial de um aplicativo mobile para gerenciamento dos J
 - Expo Snack
 - React Native Paper
 - React Navigation
-- JavaScript ou Typescript
+- JavaScript ou TypeScript
 
 ### Referências
 - https://snack.expo.dev
 - https://reactnative.dev
-- https://reactnativepaper.com/
-- https://reactnavigation.org/
+- https://reactnativepaper.com
+- https://reactnavigation.org
 
 ---
 
 # Funcionalidades Obrigatórias
 
-## CRUD das Equipes
+## Dashboard
+
+A tela inicial deverá apresentar:
+- menu de navegação
+- total de equipes
+- total de jogadores
+- total de partidas
+- próximos jogos
+
+---
+
+## CRUD de Equipes
 
 Cada equipe deverá possuir:
-- nome;
-- modalidade;
-- categoria;
-- técnico/responsável;
-- quantidade de jogadores;
-- logo ou imagem da equipe.
+- nome
+- esporte
+- modalidade
+- técnico/responsável
+- logo/imagem
+- jogadores
 
 ### Funcionalidades
-- cadastrar equipe;
-- editar equipe;
-- excluir equipe;
-- listar equipes;
-- pesquisar equipe.
+- cadastrar
+- listar
+- editar
+- excluir
+- pesquisar
 
 ---
 
-# Navegação Obrigatória
-
-O aplicativo deverá possuir navegação entre telas utilizando React Navigation.
-
----
-
-# Interface Gráfica
-
-O aplicativo deverá:
-- utilizar React Native Paper;
-- possuir organização visual;
-- utilizar ícones;
-- possuir Cards;
-- possuir telas responsivas.
-
----
-
-# Estrutura do Projeto
+# Estrutura Mínima do Projeto
 
 ```text
 /projeto
 │
 ├── App.js
-├── package.json
 │
-├── /screens
-├── /components
-├── /routes
+├── /telas
+│   │
+│   ├── /dashboard
+│   │   └── DashboardScreen.js
+│   │
+│   └── /equipes
+│       ├── EquipesScreen.js
+│       ├── EquipeFormScreen.js
+│       └── EquipeDetalhesScreen.js
+│
+├── /componentes
+│   └── Cabecalho.js
+│
+├── /rotas
+│   └── AppRotas.js
+│
+├── /database
+│   └── db.js
+│
+├── /services
+│   └── EquipesService.js
+│
+├── /enums
+│   ├── Esportes.js
+│   └── Modalidades.js
+│
 └── /assets
 ```
 
 ---
 
-# Publicação
+# Persistência em Memória
 
-Publicar o projeto no Expo Snack.
-
-## Entregar
-- link do Expo Snack.
+Os dados deverão ser armazenados em arrays dentro do arquivo `db.js`.
 
 ---
-
-# Critérios de Avaliação
-
-| Critério | Pontos |
-|---|---|
-| Funcionamento do aplicativo | 4,0 |
-| Uso do React Native | 2,0 |
-| Uso do React Native Paper | 1,0 |
-| Navegação entre telas | 1,0 |
-| CRUD de Equipes | 1,0 |
-| Organização visual | 1,0 |
-
----
-
-# Checklist — Parte 1
-
-| Item | Check |
-|---|---|
-| Desenvolvimento do aplicativo |  |
-| Uso de React Native |  |
-| Uso de Expo Snack |  |
-| Uso de React Native Paper |  |
-| Uso de React Navigation |  |
-| CRUD de Equipes |  |
-| Navegação entre telas |  |
-| Interface organizada |  |
-| Uso de Cards |  |
-| Uso de ícones |  |
-| Responsividade |  |
-| Projeto publicado no Expo Snack |  |
-| Link do Expo Snack entregue |  |
