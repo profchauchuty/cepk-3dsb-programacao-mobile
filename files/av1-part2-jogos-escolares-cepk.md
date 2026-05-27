@@ -1,6 +1,6 @@
-# PARTE 2 — Jogadores + Partidas + Estatísticas
+# PARTE 2 — Partidas
 
-# Atividade (AV2) - Programação Mobile
+# Atividade (AV1) - Programação Mobile
 
 ## Jogos Escolares - CEPK
 
@@ -8,7 +8,11 @@
 
 # Objetivo
 
-Expandir o aplicativo adicionando gerenciamento de jogadores, partidas e estatísticas dos Jogos Escolares.
+Desenvolver a estrutura de gerenciamento de partidas dos Jogos Escolares do CEPK.
+
+Nesta etapa o aplicativo deverá possuir:
+- CRUD de Partidas
+- Controle de fases
 
 ---
 
@@ -18,147 +22,97 @@ Expandir o aplicativo adicionando gerenciamento de jogadores, partidas e estatí
 - Expo Snack
 - React Native Paper
 - React Navigation
-- JavaScript
+- JavaScript ou TypeScript
+
+### Referências
+- https://snack.expo.dev
+- https://reactnative.dev
+- https://reactnativepaper.com
+- https://reactnavigation.org
 
 ---
 
 # Funcionalidades Obrigatórias
 
-## CRUD dos Jogadores
-
-Cada jogador deverá possuir:
-- nome;
-- número;
-- idade;
-- turma;
-- posição/função;
-- equipe vinculada.
-
-### Funcionalidades
-- cadastrar jogador;
-- editar jogador;
-- excluir jogador;
-- listar jogadores;
-- pesquisar jogador.
-
----
-
-## CRUD das Partidas
+## CRUD de Partidas
 
 Cada partida deverá possuir:
-- equipe A;
-- equipe B;
-- data;
-- horário;
-- local;
-- placar;
-- status da partida.
+- equipe A
+- equipe B
+- esporte
+- modalidade
+- fase
+- data
+- horário
+- local
 
 ### Funcionalidades
-- cadastrar partida;
-- editar partida;
-- excluir partida;
-- listar partidas;
-- registrar resultado.
+- cadastrar
+- listar
+- editar
+- excluir
+- pesquisar
 
 ---
 
-## CRUD das Fases
+# Enum de Fases
 
-Cada fase deverá possuir:
-- nome da fase;
-- descrição.
-
-### Exemplos
-- Fase de Grupos
-- Quartas de Final
-- Semifinal
-- Final
+Criar um enum para as fases:
+- GRUPOS
+- OITAVAS
+- QUARTAS
+- SEMIFINAL
+- FINAL
 
 ---
 
-# Funcionalidades Extras
-
-## Dashboard
-
-A tela principal deverá apresentar:
-- próximas partidas;
-- quantidade de equipes;
-- quantidade de jogadores;
-- partidas finalizadas.
-
----
-
-## Estatísticas
-
-O aplicativo deverá exibir:
-- equipe com mais vitórias;
-- maior pontuação;
-- quantidade de partidas;
-- artilheiro.
-
----
-
-## Busca e Filtros
-
-Permitir:
-- pesquisar jogadores;
-- pesquisar equipes;
-- filtrar partidas.
-
----
-
-# Navegação Obrigatória
+# Estrutura Mínima do Projeto
 
 ```text
-Home
- ├── Equipes
- ├── Jogadores
- │     ├── Listagem
- │     ├── Cadastro
- │     └── Edição
- │
- ├── Partidas
- │     ├── Listagem
- │     ├── Cadastro
- │     └── Resultado
- │
- └── Fases
-       ├── Listagem
-       ├── Cadastro
-       └── Edição
+/projeto
+│
+├── App.js
+│
+├── /telas
+│   │
+│   ├── /dashboard
+│   │   └── DashboardScreen.js
+│   │
+│   ├── /equipes
+│   │   ├── EquipesScreen.js
+│   │   ├── EquipeFormScreen.js
+│   │   └── EquipeDetalhesScreen.js
+│   │
+│   └── /partidas
+│       ├── PartidasScreen.js
+│       ├── PartidaFormScreen.js
+│       └── PartidaDetalhesScreen.js
+│
+├── /componentes
+│   └── Cabecalho.js
+│
+├── /rotas
+│   └── AppRotas.js
+│
+├── /database
+│   └── db.js
+│
+├── /services
+│   ├── EquipesService.js
+│   └── PartidasService.js
+│
+├── /enums
+│   ├── Esportes.js
+│   ├── Modalidades.js
+│   └── Fases.js
+│
+└── /assets
 ```
 
 ---
 
-# Critérios de Avaliação
+# Persistência em Memória
 
-| Critério | Pontos |
-|---|---|
-| CRUD de Jogadores | 2,0 |
-| CRUD de Partidas | 2,0 |
-| CRUD de Fases | 1,0 |
-| Dashboard | 1,0 |
-| Estatísticas | 1,0 |
-| Busca e filtros | 1,0 |
-| Organização visual | 1,0 |
-| Funcionamento geral | 1,0 |
+Os dados deverão ser armazenados em arrays dentro do arquivo `db.js`.
 
 ---
-
-# Checklist — Parte 2
-
-| Item | Check |
-|---|---|
-| CRUD de Jogadores |  |
-| CRUD de Partidas |  |
-| CRUD de Fases |  |
-| Registro de Resultados |  |
-| Dashboard implementado |  |
-| Estatísticas implementadas |  |
-| Busca e filtros |  |
-| Navegação entre telas |  |
-| Interface organizada |  |
-| Responsividade |  |
-| Projeto publicado no Expo Snack |  |
-| Link do Expo Snack entregue |  |
